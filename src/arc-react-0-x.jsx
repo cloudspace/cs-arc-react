@@ -1,4 +1,4 @@
-var Arc = require('./arc.js');
+var Arc = require('cs-arc');
 var React = require('react');
 
 var ReactConnector = React.createClass({
