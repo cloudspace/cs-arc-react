@@ -1,0 +1,14 @@
+{
+  "name": "cs-arc-react",
+  "version": "0.0.1",
+  "main": "./src/arc-react-0-x.jsx",
+  "dependencies": {
+    "cs-arc": "cloudspace/cs-arc",
+    "d3": "3.5.0",
+    "react": "0.13.3"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.0",
+    "reactify": "^1.1.1 "
+  }
+}
