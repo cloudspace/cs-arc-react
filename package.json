@@ -2,6 +2,9 @@
   "name": "cs-arc-react",
   "version": "0.0.1",
   "main": "./src/arc-react-0-x.jsx",
+  "browserify": {
+    "transform": ["reactify"]
+  },
   "dependencies": {
     "cs-arc": "cloudspace/cs-arc",
     "d3": "3.5.0",
